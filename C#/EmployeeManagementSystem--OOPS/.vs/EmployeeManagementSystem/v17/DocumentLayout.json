@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\test\\desktop\\new folder\\c#\\employeemanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\test\\desktop\\new folder\\c#\\employeemanagementsystem\\employeemanagementsystem\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\test\\desktop\\new folder\\c#\\employeemanagementsystem\\employeemanagementsystem\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\test\\desktop\\new folder\\c#\\employeemanagementsystem\\employeemanagementsystem\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\test\\desktop\\new folder\\c#\\employeemanagementsystem\\employeemanagementsystem\\iparttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\iparttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\test\\desktop\\new folder\\c#\\employeemanagementsystem\\employeemanagementsystem\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\test\\desktop\\new folder\\c#\\employeemanagementsystem\\employeemanagementsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF458A-6AC5-4DBB-8765-D4C32ABF3197}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:31:16.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\PartTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:29:35.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\FullTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:28:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\IPartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\IPartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\IPartTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\IPartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:27:27.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\IFullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\IFullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\IFullTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\IFullTimeEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:25:00.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\IEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\IEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:23:23.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Employee.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\New folder\\C#\\EmployeeManagementSystem\\EmployeeManagementSystem\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:22:07.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
