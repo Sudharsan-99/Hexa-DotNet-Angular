@@ -51,6 +51,49 @@ FOREIGN KEY(Product_Id) REFERENCES Products(Product_Id) ON DELETE CASCADE
 )
 
 
+-- Insert Categories
+INSERT INTO Categories (Category_Id, Category_Name) VALUES
+(1, 'Electronics'),
+(2, 'Apparel');
+
+-- Insert Brands
+INSERT INTO Brands (Brand_Id, Brand_Name) VALUES
+(1, 'Sony'),
+(2, 'Nike');
+
+-- Insert Products
+INSERT INTO Products (Product_Name, Category_Id, Brand_Id, List_Price) VALUES
+('Headphones', 1, 1, 599.99),
+('Smartwatch', 1, 1, 299.99),
+('Running Shoes', 2, 2, 149.99),
+('Jacket', 2, 2, 89.99),
+('Bluetooth Speaker', 1, 1, 129.50);
+
+-- Insert Customers (One Piece characters)
+INSERT INTO Customers (First_Name, Last_Name, Email, Pin_Code) VALUES
+('Monkey', 'D luffy', 'luffy@gmail.com', 123456),
+('Roronoa', 'Zoro', 'zoro@gmail.com', 234567),
+('Nami', 'Swan', 'nami@gmail.com', 345678),
+('Usopp', 'Sniper', 'usopp@gmail.com', 456789),
+('Sanji', 'Cook', 'sanji@gmail.com', 567890);
+
+-- Insert Order_Details
+INSERT INTO Order_Details (Order_Id, Order_Date, Delivery_Date, Customer_Id) VALUES
+(1, '2025-06-01', '2025-06-03', 1),
+(2, '2025-06-02', '2025-06-04', 2),
+(3, '2025-06-03', '2025-06-05', 3),
+(4, '2025-06-04', '2025-06-06', 4),
+(5, '2025-06-05', '2025-06-07', 5);
+
+-- Insert Order_Item_Info
+INSERT INTO Order_Item_Info (Order_Id, Product_Id, Price, Qty) VALUES
+(1, 100, 199.99, 1),
+(2, 101, 299.99, 2),
+(3, 102, 149.99, 1),
+(4, 103, 89.99, 3),
+(5, 104, 129.50, 1);
+
+
 --1. display customer list by the first name in descending order. 
 SELECT * 
 FROM Customers 
