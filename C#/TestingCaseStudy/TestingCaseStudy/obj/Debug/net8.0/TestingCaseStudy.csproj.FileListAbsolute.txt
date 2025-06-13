@@ -1,0 +1,12 @@
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\bin\Debug\net8.0\TestingCaseStudy.deps.json
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\bin\Debug\net8.0\TestingCaseStudy.dll
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\bin\Debug\net8.0\TestingCaseStudy.pdb
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\obj\Debug\net8.0\TestingCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\obj\Debug\net8.0\TestingCaseStudy.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\obj\Debug\net8.0\TestingCaseStudy.AssemblyInfo.cs
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\obj\Debug\net8.0\TestingCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\obj\Debug\net8.0\TestingCaseStudy.sourcelink.json
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\obj\Debug\net8.0\TestingCaseStudy.dll
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\obj\Debug\net8.0\refint\TestingCaseStudy.dll
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\obj\Debug\net8.0\TestingCaseStudy.pdb
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\TestingCaseStudy\TestingCaseStudy\obj\Debug\net8.0\ref\TestingCaseStudy.dll
