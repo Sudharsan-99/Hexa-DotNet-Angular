@@ -1,0 +1,7 @@
+{
+    "ConnectionStrings": {
+        "EventDB": "Server=DESKTOP-R2484O8\\SQLEXPRESS;Database=EventDB;Integrated Security=true;Encrypt=True;TrustServerCertificate=True;"
+    }
+}
+
+

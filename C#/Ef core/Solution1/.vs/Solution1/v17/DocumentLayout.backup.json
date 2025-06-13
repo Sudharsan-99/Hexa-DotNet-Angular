@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC4F071-1517-40CE-B55E-8AA8A837BA9C}|DAL\\DAL.csproj|c:\\users\\test\\desktop\\csharp\\ef core\\solution1\\dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC4F071-1517-40CE-B55E-8AA8A837BA9C}|DAL\\DAL.csproj|solutionrelative:dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FF2142-BD25-4D9B-862F-9E10FFF0E6B2}|UiApp\\UiApp.csproj|c:\\users\\test\\desktop\\csharp\\ef core\\solution1\\uiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FF2142-BD25-4D9B-862F-9E10FFF0E6B2}|UiApp\\UiApp.csproj|solutionrelative:uiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FF2142-BD25-4D9B-862F-9E10FFF0E6B2}|UiApp\\UiApp.csproj|c:\\users\\test\\desktop\\csharp\\ef core\\solution1\\uiapp\\userinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FF2142-BD25-4D9B-862F-9E10FFF0E6B2}|UiApp\\UiApp.csproj|solutionrelative:uiapp\\userinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\DAL\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\DAL\\Models\\UserInfo.cs",
+              "RelativeToolTip": "DAL\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAwAAAAANDMzMzPjvyIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:15:39.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInfoBL.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\UiApp\\UserInfoBL.cs",
+              "RelativeDocumentMoniker": "UiApp\\UserInfoBL.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\UiApp\\UserInfoBL.cs",
+              "RelativeToolTip": "UiApp\\UserInfoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:41:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\UiApp\\Program.cs",
+              "RelativeDocumentMoniker": "UiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\UiApp\\Program.cs",
+              "RelativeToolTip": "UiApp\\Program.cs",
+              "ViewState": "AgIAACEAAACAmpmZmZkjwCwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:34:22.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
