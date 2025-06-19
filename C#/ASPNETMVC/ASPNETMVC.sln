@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientDirectory", "ClientDi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookValidationApp", "BookValidationApp\BookValidationApp.csproj", "{9B40CF45-79FA-49C9-9CA1-98F010F31555}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSApp", "LMS\LMSApp.csproj", "{F48B881A-2777-44FD-9B87-B4B887AE9B87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9B40CF45-79FA-49C9-9CA1-98F010F31555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B40CF45-79FA-49C9-9CA1-98F010F31555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B40CF45-79FA-49C9-9CA1-98F010F31555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48B881A-2777-44FD-9B87-B4B887AE9B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48B881A-2777-44FD-9B87-B4B887AE9B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48B881A-2777-44FD-9B87-B4B887AE9B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48B881A-2777-44FD-9B87-B4B887AE9B87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
