@@ -1,0 +1,9 @@
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\ASPNETMVC\ClientDirectory\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\ASPNETMVC\ClientDirectory\obj\Debug\net8.0\ClientDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\ASPNETMVC\ClientDirectory\obj\Debug\net8.0\ClientDirectory.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\ASPNETMVC\ClientDirectory\obj\Debug\net8.0\ClientDirectory.AssemblyInfo.cs
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\ASPNETMVC\ClientDirectory\obj\Debug\net8.0\ClientDirectory.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\ASPNETMVC\ClientDirectory\obj\Debug\net8.0\ClientDirectory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\ASPNETMVC\ClientDirectory\obj\Debug\net8.0\ClientDirectory.RazorAssemblyInfo.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\ASPNETMVC\ClientDirectory\obj\Debug\net8.0\ClientDirectory.RazorAssemblyInfo.cs
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\ASPNETMVC\ClientDirectory\obj\Debug\net8.0\ClientDirectory.sourcelink.json

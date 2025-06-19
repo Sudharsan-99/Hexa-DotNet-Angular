@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactDirectory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8353698eaab51b88be20e15ca326032aa1fa96f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b2d552721055a6309d46a493ce4795165458d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactDirectory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactDirectory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

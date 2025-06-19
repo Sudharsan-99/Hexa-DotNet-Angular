@@ -1,0 +1,42 @@
+﻿@model List<ClientDirectory.Models.ClientInfo>
+
+@{
+    ViewData["Title"] = "All Clients";
+}
+
+<h2>All Client Details</h2>
+<a class="btn btn-primary mb-3" href="/Client/AddClient">Add New Client</a>
+
+@if (!Model.Any())
+{
+    <p>No client records found.</p>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>ClientId</th>
+                <th>Company</th>
+                <th>Website</th>
+                <th>Email</th>
+                <th>Category</th>
+                <th>Standard</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@c.ClientId</td>
+                    <td>@c.CompanyName</td>
+                    <td><a href="@c.WebUrl" target="_blank">@c.WebUrl</a></td>
+                    <td>@c.Email</td>
+                    <td>@c.Category</td>
+                    <td>@c.Standard</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
