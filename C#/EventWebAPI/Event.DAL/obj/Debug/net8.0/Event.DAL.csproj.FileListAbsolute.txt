@@ -1,0 +1,15 @@
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\Event.DAL.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\Event.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\Event.DAL.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\Event.DAL.AssemblyInfo.cs
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\Event.DAL.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\Event.DAL.sourcelink.json
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\bin\Debug\net8.0\Event.DAL.deps.json
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\bin\Debug\net8.0\Event.DAL.runtimeconfig.json
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\bin\Debug\net8.0\Event.DAL.dll
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\bin\Debug\net8.0\Event.DAL.pdb
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\Event.DAL.dll
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\refint\Event.DAL.dll
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\Event.DAL.pdb
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\Event.DAL.genruntimeconfig.cache
+C:\Users\test\Desktop\Hexa-Dotnet-Angular\C#\EventWebAPI\Event.DAL\obj\Debug\net8.0\ref\Event.DAL.dll

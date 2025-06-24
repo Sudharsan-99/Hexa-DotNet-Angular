@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\",
+  "WorkspaceRootPath": "C:\\Users\\test\\Desktop\\Hexa-Dotnet-Angular\\C#\\Ef core\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76FF2142-BD25-4D9B-862F-9E10FFF0E6B2}|UiApp\\UiApp.csproj|c:\\users\\test\\desktop\\csharp\\ef core\\solution1\\uiapp\\userinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76FF2142-BD25-4D9B-862F-9E10FFF0E6B2}|UiApp\\UiApp.csproj|solutionrelative:uiapp\\userinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBC4F071-1517-40CE-B55E-8AA8A837BA9C}|DAL\\DAL.csproj|c:\\users\\test\\desktop\\hexa-dotnet-angular\\c#\\ef core\\solution1\\dal\\models\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC4F071-1517-40CE-B55E-8AA8A837BA9C}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76FF2142-BD25-4D9B-862F-9E10FFF0E6B2}|UiApp\\UiApp.csproj|c:\\users\\test\\desktop\\csharp\\ef core\\solution1\\uiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76FF2142-BD25-4D9B-862F-9E10FFF0E6B2}|UiApp\\UiApp.csproj|solutionrelative:uiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBC4F071-1517-40CE-B55E-8AA8A837BA9C}|DAL\\DAL.csproj|c:\\users\\test\\desktop\\hexa-dotnet-angular\\c#\\ef core\\solution1\\dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC4F071-1517-40CE-B55E-8AA8A837BA9C}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC4F071-1517-40CE-B55E-8AA8A837BA9C}|DAL\\DAL.csproj|c:\\users\\test\\desktop\\hexa-dotnet-angular\\c#\\ef core\\solution1\\dal\\dataaccess\\eventdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC4F071-1517-40CE-B55E-8AA8A837BA9C}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\eventdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserInfoBL.cs",
-              "DocumentMoniker": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\UiApp\\UserInfoBL.cs",
-              "RelativeDocumentMoniker": "UiApp\\UserInfoBL.cs",
-              "ToolTip": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\UiApp\\UserInfoBL.cs",
-              "RelativeToolTip": "UiApp\\UserInfoBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EventDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\Hexa-Dotnet-Angular\\C#\\Ef core\\Solution1\\DAL\\Models\\EventDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EventDBContext.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\Hexa-Dotnet-Angular\\C#\\Ef core\\Solution1\\DAL\\Models\\EventDBContext.cs",
+              "RelativeToolTip": "DAL\\Models\\EventDBContext.cs",
+              "ViewState": "AgIAAC0AAAAAZWZmZmYgwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T06:41:47.398Z",
+              "WhenOpened": "2025-06-22T17:35:08.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\UiApp\\Program.cs",
-              "RelativeDocumentMoniker": "UiApp\\Program.cs",
-              "ToolTip": "C:\\Users\\test\\Desktop\\Csharp\\Ef core\\Solution1\\UiApp\\Program.cs",
-              "RelativeToolTip": "UiApp\\Program.cs",
-              "ViewState": "AgIAACEAAACAmpmZmZkjwCwAAAAsAAAAAAAAAA==",
+              "Title": "IEventDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\Hexa-Dotnet-Angular\\C#\\Ef core\\Solution1\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\Hexa-Dotnet-Angular\\C#\\Ef core\\Solution1\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ViewState": "AgIAAAQAAAAAMzMzMzMLwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T05:34:22.5Z",
+              "WhenOpened": "2025-06-22T17:35:01.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDetailRepo.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\Hexa-Dotnet-Angular\\C#\\Ef core\\Solution1\\DAL\\DataAccess\\EventDetailRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\EventDetailRepo.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\Hexa-Dotnet-Angular\\C#\\Ef core\\Solution1\\DAL\\DataAccess\\EventDetailRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\EventDetailRepo.cs",
+              "ViewState": "AgIAAAQAAABAZWZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:34:57.049Z",
               "EditorCaption": ""
             }
           ]
