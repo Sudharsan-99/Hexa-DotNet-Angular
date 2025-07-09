@@ -1,0 +1,36 @@
+<div class="container">
+  <h2 class="heading">💬 Student Feedback Form</h2>
+
+  <form class="form">
+    <div class="form-group">
+      <label for="studentName">Student Name:</label>
+      <input type="text" id="studentName" [(ngModel)]="feedback.studentName" name="studentName" />
+    </div>
+
+    <div class="form-group">
+      <label for="courseName">Course Name:</label>
+      <select id="courseName" [(ngModel)]="feedback.courseName" name="courseName">
+        <option *ngFor="let course of courses" [value]="course">{{ course }}</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="rating">Rating (1–5):</label>
+      <input type="number" id="rating" min="1" max="5" [(ngModel)]="feedback.rating" name="rating" />
+    </div>
+
+    <div class="form-group">
+      <label for="comments">Comments:</label>
+      <textarea id="comments" rows="4" [(ngModel)]="feedback.comments" name="comments"></textarea>
+    </div>
+  </form>
+
+  <h3 class="preview-title">🔎 Live Preview</h3>
+  <div class="preview">
+    <p><strong>Name:</strong> {{ feedback.studentName || 'N/A' }}</p>
+    <p><strong>Course:</strong> {{ feedback.courseName || 'N/A' }}</p>
+    <p><strong>Rating:</strong> {{ feedback.rating }}</p>
+    <p><strong>Comments:</strong> {{ feedback.comments || 'No comments yet.' }}</p>
+  </div>
+</div>
+

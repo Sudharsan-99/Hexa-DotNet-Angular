@@ -1,0 +1,11 @@
+h2 {
+  color: darkblue;
+  margin-bottom: 20px;
+}
+
+li {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 8px;
+  list-style-type: none;
+}
