@@ -1,0 +1,47 @@
+<div class="container">
+  <h2>📝 Reactive User Registration</h2>
+
+  <form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="fullName">Full Name</label>
+      <input id="fullName" type="text" formControlName="fullName" />
+    </div>
+
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input id="email" type="email" formControlName="email" />
+    </div>
+
+    <div class="form-group">
+      <label>Gender</label>
+      <div class="radio-group">
+        <label><input type="radio" value="Male" formControlName="gender" /> Male</label>
+        <label><input type="radio" value="Female" formControlName="gender" /> Female</label>
+        <label><input type="radio" value="Other" formControlName="gender" /> Other</label>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="country">Country</label>
+      <select id="country" formControlName="country">
+        <option value="">-- Select Country --</option>
+        <option *ngFor="let country of countries" [value]="country">{{ country }}</option>
+      </select>
+    </div>
+
+    <div class="form-group checkbox-group">
+      <input type="checkbox" formControlName="agree" />
+      <label for="agree">I agree to the terms & conditions</label>
+    </div>
+
+    <button type="submit">Register</button>
+  </form>
+
+  <div class="preview" *ngIf="submittedData">
+    <h3>🎉 Registration Successful!</h3>
+    <p><strong>Name:</strong> {{ submittedData.fullName }}</p>
+    <p><strong>Email:</strong> {{ submittedData.email }}</p>
+    <p><strong>Gender:</strong> {{ submittedData.gender }}</p>
+    <p><strong>Country:</strong> {{ submittedData.country }}</p>
+  </div>
+</div>

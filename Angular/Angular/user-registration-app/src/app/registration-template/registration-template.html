@@ -1,0 +1,28 @@
+<div class="container">
+  <h2>📝 Template-Driven User Registration</h2>
+
+  <form #form="ngForm" (ngSubmit)="submitForm(form)" *ngIf="!submitted">
+    <div class="form-group">
+      <label for="fullName">Full Name</label>
+      <input id="fullName" name="fullName" [(ngModel)]="user.fullName" required />
+    </div>
+
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input id="email" type="email" name="email" [(ngModel)]="user.email" required />
+    </div>
+
+    <div class="form-group">
+      <label>Gender</label>
+      <div class="radio-group">
+        <label><input type="radio" name="gender" [(ngModel)]="user.gender" value="Male" /> Male</label>
+        <label><input type="radio" name="gender" [(ngModel)]="user.gender" value="Female" /> Female</label>
+        <label><input type="radio" name="gender" [(ngModel)]="user.gender" value="Other" /> Other</label>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="country">Country</label>
+      <select id="country" name="country" [(ngModel)]="user.country" required>
+        <option value="">-- Select Country --</option>
+        <option *ngFor="let country of countries" [v]()*></option>
